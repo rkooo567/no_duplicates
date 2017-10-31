@@ -1,9 +1,3 @@
-// identification
-// SangBin Cho
-// Lab 10, DvcSchedule10.cpp
-// Editor(s) used: Code::blocks
-// Compiler(s) used: GNU GCC Compiler
-
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <fstream>

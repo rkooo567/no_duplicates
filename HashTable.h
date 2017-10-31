@@ -1,9 +1,3 @@
-// identification
-// SangBin Cho
-// Lab 10, HashTable.h
-// Editor(s) used: Code::blocks
-// Compiler(s) used: GNU GCC Compiler
-
 #ifndef HashTable_h
 #define HashTable_h
 
