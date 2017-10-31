@@ -1,9 +1,3 @@
-// identification
-// SangBin Cho
-// Lab 9, Queue.h
-// Editor(s) used: Code::blocks
-// Compiler(s) used: GNU GCC Compiler
-
 #ifndef Queue_h
 #define Queue_h
 

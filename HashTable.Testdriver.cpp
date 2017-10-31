@@ -1,9 +1,3 @@
-// identification
-// SangBin Cho
-// Lab 9, HashTable.TestDriver.cpp
-// Editor(s) used: Code::blocks
-// Compiler(s) used: GNU GCC Compiler
-
 #include <iostream>
 #include <queue>
 using namespace std;
@@ -17,14 +11,6 @@ int hashCode(const string&);
 
 int main()
 {
-  // identification
-  cout << "SangBin Cho\n\n";
-  cout << "Lab 9, HashTable.TestDriver.cpp\n";
-  cout << "Editor(s) used: Code::blocks\n";
-  cout << "Compiler(s) used: GNU GCC Compiler\n";
-  cout << "File: " << __FILE__ << "\n";
-  cout << "Compiled: " << __DATE__ << " at " << __TIME__ << "\n\n";
-
   // program
   cout << "Test Driver : Hash Table\n\n";
 
