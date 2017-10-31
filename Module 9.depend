@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1478684075 source:c:\users\Á¶»óºó\desktop\com 210, burns\module 9\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<queue>
+	<vector>
+	<algorithm>
+	<cstring>
+	"HashTable.h"
+
+1478684140 c:\users\Á¶»óºó\desktop\com 210, burns\module 9\hashtable.h
+	<list>
+	<queue>
+
+1478083163 c:\users\Á¶»óºó\desktop\com 210, burns\module 9\queue.h
+
