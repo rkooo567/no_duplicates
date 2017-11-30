@@ -1,1 +1,1 @@
-Class searching & removing duplicates of same classes
+Class searching & Count duplicates of same classes
